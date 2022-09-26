@@ -12,17 +12,20 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyun9)](https://velog.io/@hyun9)
 
 ### 김한섬 멘티
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hymnpk)](https://velog.io/@hymnpk)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wjadlchlrh1)](https://velog.io/@wjadlchlrh1)
 
 ### 이윤동 멘티
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dldbsehd106)](https://velog.io/@dldbsehd106)
 
 ### 박혜민 멘티
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hymnpk)](https://velog.io/@hymnpk)
 
 ### 고재희 멘티
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ppk021005)](https://velog.io/@ppk021005)
 
 ### 서희정 멘티
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hymnpk)](https://velog.io/@hymnpk)
 
 ### 김성민 멘티
+
 
